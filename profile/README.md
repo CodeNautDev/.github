@@ -14,7 +14,7 @@ And of course…
 ## 🛠️ How to Contribute?  
 1️⃣ **Pick a project** from the list below.  
 2️⃣ **Check the documentation** to understand the structure.  
-3️⃣ **Fork & clone the repository** – it's time to code!  
+3️⃣ **Clone the repository** – it's time to code!  
 4️⃣ **Join our Telegram** for discussions & support: [@codenaut_community](https://t.me/codenaut_community)  
 
 🚀 **Remember:** **Reinventing the wheel is underrated!** 🛞🔁 (After all, how else would we get hoverboards?)  
