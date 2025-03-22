@@ -9,7 +9,7 @@ At **CodeNaut**, we empower **junior developers** by providing real-world projec
 ## 🛠️ How to Contribute?  
 1. **Choose a project** from the list below.  
 2. **Read the project’s documentation** to understand the structure.  
-3. **Fork the repository** and start contributing!  
+3. **Clone the repository** and start contributing!  
 4. **Join our Telegram community** for discussions & updates: [@codenaut_community](https://t.me/codenaut_community)  
 
 ---
