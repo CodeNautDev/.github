@@ -16,7 +16,7 @@ At **CodeNaut**, we empower **junior developers** by providing real-world projec
 
 ## 🚀 Active Projects  
 
-| Project Name | Description | GitHub Repo |  
+| Project Name | Description | GitHub Org |  
 |-------------|------------|-------------|  
 | **BazarGo** | Online grocery ordering platform | [GitHub](https://github.com/CodeNaut-BazarGo) |  
 | *(More projects coming soon!)* | | |  
